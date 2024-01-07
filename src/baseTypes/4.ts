@@ -1,3 +1,5 @@
-let person: any = ['Max', 21];
+let person: any[];
+
+person =  ['Max', 21];
 
 export {};
